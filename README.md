@@ -26,9 +26,9 @@ this powerful tool delivers rapid and relevant responses.
     ```
 
 3. **Set up environment variables:**
-    - Create a `.env` file in the root directory and add your Meta-Llama-3-70B API key:
+    - Create a `.env` file in the root directory and add your Meta-Llama-3-70B API key! I got mine through Groq:
     ```env
-    META_LLAMA_API_KEY=your-api-key-here
+    GROQ_API_KEY=your-api-key-here
     ```
 
 4. **Start the development server:**
