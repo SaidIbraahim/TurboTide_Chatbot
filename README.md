@@ -1,7 +1,7 @@
 # TurboTide Chatbot
 
 ## Project Overview
-TurboTide Chatbot is an interactive web application chatbot that uses the Meta-Llama-3-70B API to provide fast and accurate responses
+TurboTide Chatbot is an interactive chatbot web application that uses the Meta-Llama-3-70B API to provide fast and accurate responses
 to a wide range of text prompts. Whether users are asking software development questions or seeking answers on various topics,
 this powerful tool delivers rapid and relevant responses.
 
