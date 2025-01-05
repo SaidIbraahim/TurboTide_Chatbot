@@ -16,7 +16,7 @@ this powerful tool delivers rapid and relevant responses.
 ## Setup Instructions
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/TurboTide_Chatbot.git
+    git clone https://github.com/saidibraahim/TurboTide_Chatbot.git
     cd TurboTide_Chatbot
     ```
 
